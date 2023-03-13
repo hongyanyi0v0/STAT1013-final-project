@@ -1,4 +1,3 @@
-# STAT1013-final-project
 ---
 jupyter:
   colab: null
