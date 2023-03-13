@@ -1,6 +1,19 @@
 # STAT1013-final-project
  HW2
 --- 
+jupyter:
+  colab: null
+  kernelspec:
+    display_name: Python 3
+    name: python3
+  language_info:
+    name: python
+  nbformat: 4
+  nbformat_minor: 0
+---
+
+<div class="cell markdown" id="ZjKq-LpcJZoE">
+
 # CUHK-STAT1013: Practical Assignment Part1: Sharing your idea and data
 
 </div>
