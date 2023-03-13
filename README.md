@@ -1,6 +1,5 @@
 # STAT1013-final-project
- HW2
---- 
+---
 jupyter:
   colab: null
   kernelspec:
